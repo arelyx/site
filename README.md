@@ -1,3 +1,3 @@
-# Source for my Website
+# Source for my website
 
 ## http://arelyx.xyz
